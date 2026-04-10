@@ -3,7 +3,6 @@
 ###
 
 <br clear="both">
-###
 
 <img src="https://raw.githubusercontent.com/Gabzk/Gabzk/output/snake.svg" alt="Snake animation" />
 
